@@ -1,0 +1,410 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 3.6.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: +mydpPg31TbaYuOqE80ZEoF2dKECm4OdlfQ4c3M2MZU=
+
+Name: assets/android_rcc_bundle.rcc
+SHA-256-Digest: IXz0/WogLNiqImEozYz96TKqobMELNryCWrMIhO6EPI=
+
+Name: classes.dex
+SHA-256-Digest: h29Dc103gnslmC3a6GFCK6RWgFV6G04bwhN5lajamCo=
+
+Name: classes2.dex
+SHA-256-Digest: xrIFBVkDrUZqjJtj6on/XCFVTNdcQLC51HCQ2acCuns=
+
+Name: lib/armeabi-v7a/libNewUIAeroGCS_armeabi-v7a.so
+SHA-256-Digest: N39NrFYYedyav5ep2tkIK1JIQHmqJtU1JrAtm+DttZU=
+
+Name: lib/armeabi-v7a/libQt5AndroidExtras_armeabi-v7a.so
+SHA-256-Digest: 5kcMhn3nSoD9S4ErT0uXXMadsbNNr7g5Luz8YhQQocs=
+
+Name: lib/armeabi-v7a/libQt5Bluetooth_armeabi-v7a.so
+SHA-256-Digest: +TCRCWy0e7YyYxyRKmY3cgY4kr3eTb9jtfQZXrs4/X0=
+
+Name: lib/armeabi-v7a/libQt5Charts_armeabi-v7a.so
+SHA-256-Digest: kmSswqW5Lin+DlJs2voFFlAchte1elSB5AI4zzRRUnA=
+
+Name: lib/armeabi-v7a/libQt5Concurrent_armeabi-v7a.so
+SHA-256-Digest: k0e47meR58oChX22J1WQgUsuJOxhp8QCkdTlR/toGUI=
+
+Name: lib/armeabi-v7a/libQt5Core_armeabi-v7a.so
+SHA-256-Digest: 5eADw9GQhpCT10ERULyVFUFI0a81fwD1AmKHVxl0jNs=
+
+Name: lib/armeabi-v7a/libQt5Gui_armeabi-v7a.so
+SHA-256-Digest: L/yutTmvgm8agd9K0wVywaoB8shAdE1LcQJ1GoxC/zw=
+
+Name: lib/armeabi-v7a/libQt5Location_armeabi-v7a.so
+SHA-256-Digest: LIvR6Pq6/p/EQ9w9rYCcnpTKeZ4Hf7hld6hWoT0vYas=
+
+Name: lib/armeabi-v7a/libQt5MultimediaQuick_armeabi-v7a.so
+SHA-256-Digest: QDASCL0GL8XBbU+ynJDtXl6XDTr2Rm4D2+sndv+oM1g=
+
+Name: lib/armeabi-v7a/libQt5MultimediaWidgets_armeabi-v7a.so
+SHA-256-Digest: frBHLlaDvxM/bKFa62crSODQB4S+bKZUeKPweSQu3Kg=
+
+Name: lib/armeabi-v7a/libQt5Multimedia_armeabi-v7a.so
+SHA-256-Digest: wdBHKris6FhLF1oI3ZxltbzuMQO/4HqjXIzkI7SKqcg=
+
+Name: lib/armeabi-v7a/libQt5Network_armeabi-v7a.so
+SHA-256-Digest: 1pyGN+dTkzrXPdmx3toUdxFNqZSbS2KO+zcylTkFhGA=
+
+Name: lib/armeabi-v7a/libQt5OpenGL_armeabi-v7a.so
+SHA-256-Digest: xJ76P8UsSNlzQfXK8ooCKLcuPnuybAV6+K83M8RxxVg=
+
+Name: lib/armeabi-v7a/libQt5PositioningQuick_armeabi-v7a.so
+SHA-256-Digest: fdL/qc+/PkLTS+qK0AE6I8jqV7ZUjCMySFz8rcmbVTA=
+
+Name: lib/armeabi-v7a/libQt5Positioning_armeabi-v7a.so
+SHA-256-Digest: QPBpgZEHSeIb4WgodJ22qQ8Orv/Cs5+5ELiAdiAy3YU=
+
+Name: lib/armeabi-v7a/libQt5QmlModels_armeabi-v7a.so
+SHA-256-Digest: liAwJEs1zfHkM6/Zz8GJPXpKe/96m7Vas2O3DF71iYU=
+
+Name: lib/armeabi-v7a/libQt5QmlWorkerScript_armeabi-v7a.so
+SHA-256-Digest: 1OYu6zDlVyt34qDLUfkSEWEknTBkrQTXAebQvWNVaRk=
+
+Name: lib/armeabi-v7a/libQt5Qml_armeabi-v7a.so
+SHA-256-Digest: K5rPqWFe82OJESWgit/blNvsA9v9eL5ySyXXyNEZeMg=
+
+Name: lib/armeabi-v7a/libQt5QuickControls2_armeabi-v7a.so
+SHA-256-Digest: y/2Zrckv0B8IEhfv/1tg9af5CJ16E8KNjbrUw2c3Qh8=
+
+Name: lib/armeabi-v7a/libQt5QuickParticles_armeabi-v7a.so
+SHA-256-Digest: nTgxHdxpkTXdRuc9TF9oBFi8VEzwev1EdEri2PdjUF8=
+
+Name: lib/armeabi-v7a/libQt5QuickTemplates2_armeabi-v7a.so
+SHA-256-Digest: mL1gktjr8l23jK3SagO3AoVzD9wl5SU+vdITm/2/Ni8=
+
+Name: lib/armeabi-v7a/libQt5QuickWidgets_armeabi-v7a.so
+SHA-256-Digest: NRRJwJgfl/m0X/i4CCrEXJ0hWdQ315E4Lnf2huwo26g=
+
+Name: lib/armeabi-v7a/libQt5Quick_armeabi-v7a.so
+SHA-256-Digest: CaNd943xfiqrLh6VV4+vMEdiHm9binAapsnFMw/3rFI=
+
+Name: lib/armeabi-v7a/libQt5RemoteObjects_armeabi-v7a.so
+SHA-256-Digest: ZnzESebcqpHRmDNAAPE6FWAvwcb1YqgD2h3FgguRfnc=
+
+Name: lib/armeabi-v7a/libQt5Sql_armeabi-v7a.so
+SHA-256-Digest: SFQwEn9iR7CNxsLgBug99CwbW1tMvdMNoSixVp1bqfM=
+
+Name: lib/armeabi-v7a/libQt5Svg_armeabi-v7a.so
+SHA-256-Digest: jP3JQpUvbLMBIOfWJFd3c5vM//51hOi2bpcRsqjtyO8=
+
+Name: lib/armeabi-v7a/libQt5TextToSpeech_armeabi-v7a.so
+SHA-256-Digest: ljg/DEFlTR8/NN6MooxLGTeCeor393JOWg3xAzWdCDE=
+
+Name: lib/armeabi-v7a/libQt5WebSockets_armeabi-v7a.so
+SHA-256-Digest: bPGrMfNp8YvFZE+rGE6voZJxDoueJrCB5RyFwVeL2+E=
+
+Name: lib/armeabi-v7a/libQt5Widgets_armeabi-v7a.so
+SHA-256-Digest: Fm9YStLBbPcoHBckf/KmNY5D6R045jPrZr+tNlPNkG0=
+
+Name: lib/armeabi-v7a/libQt5Xml_armeabi-v7a.so
+SHA-256-Digest: Qc2EwIAIxJZtNxFcvnDjFsuSMcW8KxLdsf81R2Enecc=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA-256-Digest: hICsHx/O220F7sBRmvoNsZuEVB7Ru66x97fazyAAjZU=
+
+Name: lib/armeabi-v7a/libcrypto_1_1.so
+SHA-256-Digest: zOUKkjxUEAZxjcMIrz+YwXim224zAuce+8FA+EwWGHE=
+
+Name: lib/armeabi-v7a/libplugins_audio_qtaudio_opensles_armeabi-v7a.so
+SHA-256-Digest: RIa2P/Z9jkHj1Ec2kSbyJ1ez6kwYwwxYN6PWFS3TFBI=
+
+Name: lib/armeabi-v7a/libplugins_bearer_qandroidbearer_armeabi-v7a.so
+SHA-256-Digest: 631dsGHZE+VvC42yk1W78EwRaCMbkK5BV64lCT2iWs4=
+
+Name: lib/armeabi-v7a/libplugins_geoservices_qtgeoservices_esri_armeab
+ i-v7a.so
+SHA-256-Digest: CAUY1XG1S/Z5TIO0IEjDmEUwfRUOrXozmMzsAI6y7SY=
+
+Name: lib/armeabi-v7a/libplugins_geoservices_qtgeoservices_googlemaps_
+ armeabi-v7a.so
+SHA-256-Digest: dF9iV12KeLdD7hXfpbRRRxyTdp8TFg5iGWEmo9ay5hM=
+
+Name: lib/armeabi-v7a/libplugins_geoservices_qtgeoservices_itemsoverla
+ y_armeabi-v7a.so
+SHA-256-Digest: Lv+XyRQtO0xrr4ENXZXLHTOB7BTC4tskfB8wDgiMitU=
+
+Name: lib/armeabi-v7a/libplugins_geoservices_qtgeoservices_mapbox_arme
+ abi-v7a.so
+SHA-256-Digest: Z3tJsI3X6NcUcvKLtNxKj9asKN4Bdh1S+0E+njRRPpk=
+
+Name: lib/armeabi-v7a/libplugins_geoservices_qtgeoservices_mapboxgl_ar
+ meabi-v7a.so
+SHA-256-Digest: TYxNKVuEH7szIaTtWT/dNtqZrAHxfpbj0X7jgeLnAq4=
+
+Name: lib/armeabi-v7a/libplugins_geoservices_qtgeoservices_nokia_armea
+ bi-v7a.so
+SHA-256-Digest: GIKjWP2RKd0IyW54VnpQOKH/TZfAYQP9IL0+P1aR26o=
+
+Name: lib/armeabi-v7a/libplugins_geoservices_qtgeoservices_osm_armeabi
+ -v7a.so
+SHA-256-Digest: q+JbGbS2kPtJq+DeQ1lDhO+rP/z7J+zz/X+5fmzwi8o=
+
+Name: lib/armeabi-v7a/libplugins_iconengines_qsvgicon_armeabi-v7a.so
+SHA-256-Digest: goxDiffL0MvicjkFX5iAbYmBB4vQSF2hksnQaAt6uk4=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qgif_armeabi-v7a.so
+SHA-256-Digest: inCva85JqfcjDiMW1bc4TBxVrMXCr1P0kZaSK92GfpY=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qicns_armeabi-v7a.so
+SHA-256-Digest: Ria6n+oTcdIkBIVezlakPPC+Y+KcKPTsBGEA4T5jLVA=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qico_armeabi-v7a.so
+SHA-256-Digest: eDErFwIFPb8yvjM6i+3IFOyglcbS9uPIDqrpzwUpV+w=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qjpeg_armeabi-v7a.so
+SHA-256-Digest: 7cyCnOEL4M6HcoSKor5ONKF40u8Mch1+OlyuRhSLIqM=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qsvg_armeabi-v7a.so
+SHA-256-Digest: +RIFpNkoQVxfRe5BG9pG/s6BTTuVLpKRD1gM4FGg0E4=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qtga_armeabi-v7a.so
+SHA-256-Digest: ZEA8wgxV6VQX5/MgNAMGYcgvIghkRBx25+IlyBxd+q8=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qtiff_armeabi-v7a.so
+SHA-256-Digest: UbTMSRdgDKZJqCWmlqSV877hd10t0y77MzxB6E2nlUM=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qwbmp_armeabi-v7a.so
+SHA-256-Digest: M2553DhozdNqnZzX2qHWYghi73s/rtuMGNgzbG6Tb3Q=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qwebp_armeabi-v7a.so
+SHA-256-Digest: J9RpMcUAssUxAxGa+88sI2hwfuPMyjJjpKi7mxByIN8=
+
+Name: lib/armeabi-v7a/libplugins_mediaservice_qtmedia_android_armeabi-
+ v7a.so
+SHA-256-Digest: Gwp92eYcK7J7/GTwKGLR7LUdPvXkAjrt3PNv2oAYp0E=
+
+Name: lib/armeabi-v7a/libplugins_platforms_qtforandroid_armeabi-v7a.so
+SHA-256-Digest: HyEV3XQf70wLTTzWHNisGjCmTy70vLtx++AdOK/7QmA=
+
+Name: lib/armeabi-v7a/libplugins_playlistformats_qtmultimedia_m3u_arme
+ abi-v7a.so
+SHA-256-Digest: BxkT1PTHa4NqEBP/XxlCFCPXtib/iA+kviCnxftqHcI=
+
+Name: lib/armeabi-v7a/libplugins_position_qtposition_android_armeabi-v
+ 7a.so
+SHA-256-Digest: DX/mk6zcFMEXHlPpX5fa3gAjVWZOOYCXOWvek6Gc+Qo=
+
+Name: lib/armeabi-v7a/libplugins_position_qtposition_positionpoll_arme
+ abi-v7a.so
+SHA-256-Digest: rian/JXGucw3OMVYCmzH64/2HOYe9+E53DElbPaAiyM=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_debugger_armeabi-v7
+ a.so
+SHA-256-Digest: PAW2TZdbB+Z9Df3pZ8mGAz1PAsLGsA7q954VFX9U+No=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_inspector_armeabi-v
+ 7a.so
+SHA-256-Digest: yYRggOyRYHa/uF53Jau7tcB/uHidFyfJJQxKUvJXUR4=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_local_armeabi-v7a.s
+ o
+SHA-256-Digest: a8Ij6cQEoHMKg4rXGDoP4RSs1++4M1GVqw4DcKfLXu4=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_messages_armeabi-v7
+ a.so
+SHA-256-Digest: WbxwXv70sHJC+0Ql89Kyz5trXiMzjJf4k0xLwy//xVA=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_native_armeabi-v7a.
+ so
+SHA-256-Digest: l+LJOemec6zcZoDp+Z1hib6h8YgG9by1qwywYOOyMQ4=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_nativedebugger_arme
+ abi-v7a.so
+SHA-256-Digest: XNdlC3mgtwZrdNGfKzFKM1xooW7dII54nqriTTcGw1M=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_preview_armeabi-v7a
+ .so
+SHA-256-Digest: g5jW+eV9j/4g+JOuCRUUb1uZvMRiIJX/P8oRKhw4Ih4=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_profiler_armeabi-v7
+ a.so
+SHA-256-Digest: wwKCInQk6JsiQgFUlKR8xvCjpg5veEPPGW1ZrzFQQ7I=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_quickprofiler_armea
+ bi-v7a.so
+SHA-256-Digest: q4V4X6WswJFjFRNHT/iO0Dfam1rTj0ptLZXudQ9vyCE=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_server_armeabi-v7a.
+ so
+SHA-256-Digest: eQ16m8+qS3WsCpNRxbAmLR98DmKDB8j7JmPLpxZfDhs=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_tcp_armeabi-v7a.so
+SHA-256-Digest: FwcSu/+yKADc/Ah2CWawjuyr9bY774/BaONDrXNA+ik=
+
+Name: lib/armeabi-v7a/libplugins_sqldrivers_qsqlite_armeabi-v7a.so
+SHA-256-Digest: aQrp524Q3y7GcwWkFB1LHxTQWEFH/VmwLi9MCp7LRjg=
+
+Name: lib/armeabi-v7a/libplugins_styles_qandroidstyle_armeabi-v7a.so
+SHA-256-Digest: vacIGC19DG7u9Ub5DBrBsL2WJFyH/nvpISJbTZ6/aLs=
+
+Name: lib/armeabi-v7a/libplugins_texttospeech_qttexttospeech_android_a
+ rmeabi-v7a.so
+SHA-256-Digest: yi1F8PCRvjC+8OH4xa0QI3YxDvNcooCB0ViwRfflQA0=
+
+Name: lib/armeabi-v7a/libplugins_video_videonode_qtsgvideonode_android
+ _armeabi-v7a.so
+SHA-256-Digest: D/3DKVlVcB4XUr2mHO+P1gi5SWlw9WT1eRkEv2Jfzcg=
+
+Name: lib/armeabi-v7a/libqml_QtCharts_qtchartsqml2_armeabi-v7a.so
+SHA-256-Digest: Noesv2qNGIJkUOq9TzClkq3zMIhG/gP8GN071oIGrIE=
+
+Name: lib/armeabi-v7a/libqml_QtGraphicalEffects_private_qtgraphicaleff
+ ectsprivate_armeabi-v7a.so
+SHA-256-Digest: 5K6vuWg/AV/NHQGF6xpOLpOcsbEOqlgD9eYkbaZUvSo=
+
+Name: lib/armeabi-v7a/libqml_QtGraphicalEffects_qtgraphicaleffectsplug
+ in_armeabi-v7a.so
+SHA-256-Digest: /7Rb9Vc1o1Rk7g8JmBJuP96I61SVThAhc3NGw3vLPTU=
+
+Name: lib/armeabi-v7a/libqml_QtLocation_declarative_location_armeabi-v
+ 7a.so
+SHA-256-Digest: 0p/lbuPO4L7SFhWzhleycxAs58mI4XEwgiq2iSD3SLE=
+
+Name: lib/armeabi-v7a/libqml_QtMultimedia_declarative_multimedia_armea
+ bi-v7a.so
+SHA-256-Digest: o4CwFa3eQi8iMqAt+7WC41tXSM3mlHYzcCOFCnGziNw=
+
+Name: lib/armeabi-v7a/libqml_QtPositioning_declarative_positioning_arm
+ eabi-v7a.so
+SHA-256-Digest: VW0SNGddEHLNWAYz9PfahhnF5p187/9cu2cFmTV8UOM=
+
+Name: lib/armeabi-v7a/libqml_QtQml_Models.2_modelsplugin_armeabi-v7a.s
+ o
+SHA-256-Digest: 64jAFGFoePGbnojZgR7t91ozT55aJEr6AN7LDbRZ54A=
+
+Name: lib/armeabi-v7a/libqml_QtQml_RemoteObjects_qtqmlremoteobjects_ar
+ meabi-v7a.so
+SHA-256-Digest: 17OwsTp/IWCjcluzj10eUOU2ijywZES/uC4AhIbDUDw=
+
+Name: lib/armeabi-v7a/libqml_QtQml_StateMachine_qtqmlstatemachine_arme
+ abi-v7a.so
+SHA-256-Digest: SuTymj7CLNSqpTSZLiJde2keumvjpa5RMqlorDH3IPE=
+
+Name: lib/armeabi-v7a/libqml_QtQml_WorkerScript.2_workerscriptplugin_a
+ rmeabi-v7a.so
+SHA-256-Digest: xNyNmuoyMcd0yvjo4MQr4GIqyJAo7WO9JkJAM89Duik=
+
+Name: lib/armeabi-v7a/libqml_QtQml_qmlplugin_armeabi-v7a.so
+SHA-256-Digest: /0bq7I/o1hZ1xKvjrM3cxabmvsT3JRvXGIR338Y//+8=
+
+Name: lib/armeabi-v7a/libqml_QtQuick.2_qtquick2plugin_armeabi-v7a.so
+SHA-256-Digest: mXL/XgVYcjdpsrin/wZO2HOvKXW7oEtxHoQgziiZvPU=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls.2_Fusion_qtquickcontrols
+ 2fusionstyleplugin_armeabi-v7a.so
+SHA-256-Digest: N+M0D0dyMNnLT8v2wWQq6sbluR7YYUoYx5+uT+t+ueA=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls.2_Imagine_qtquickcontrol
+ s2imaginestyleplugin_armeabi-v7a.so
+SHA-256-Digest: tsKRubImSpdE/rUGaaPADyG3rj/fEbTvPz68xWIxOHg=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls.2_Material_qtquickcontro
+ ls2materialstyleplugin_armeabi-v7a.so
+SHA-256-Digest: Mk4UH7wKlhtQffRfiIQ8nVIeX+vu7KZcollPgtiLvi4=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls.2_Universal_qtquickcontr
+ ols2universalstyleplugin_armeabi-v7a.so
+SHA-256-Digest: XHe4GRhnQ9P1PJKely9X+UAGyQPOP6ZcCCF689X+2Ns=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls.2_qtquickcontrols2plugin
+ _armeabi-v7a.so
+SHA-256-Digest: NgtwzjjbDM8uVdGO1MVq8IRULtEhs/nzlTV3q86k8Mc=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Styles_Android_qtquickco
+ ntrolsandroidstyleplugin_armeabi-v7a.so
+SHA-256-Digest: J3JakrXgI87ewtYoCGAMX2/1zNfKThsNdK3zKxtf52I=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Styles_Flat_qtquickextra
+ sflatplugin_armeabi-v7a.so
+SHA-256-Digest: SyzYdmyctbB6FYfgkWKTv9ZevyJf263DbaUSxK+19Dc=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_qtquickcontrolsplugin_ar
+ meabi-v7a.so
+SHA-256-Digest: SALqn43mWEHoTQl5yjf+9ItNaTR3iqDsGsSu3maVsVE=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Dialogs_Private_dialogsprivateplu
+ gin_armeabi-v7a.so
+SHA-256-Digest: 943TU0nvXxsjnZ+EmiHnrkykibS+zo5fBQCurb876NM=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Dialogs_dialogplugin_armeabi-v7a.
+ so
+SHA-256-Digest: 2Y3RpdqaGYtUNDe55RqdZPVjgSRqhAZ2LU81AQ7eTzY=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Extras_qtquickextrasplugin_armeab
+ i-v7a.so
+SHA-256-Digest: BMcjBDQ6tEAGx69vqID0s3kbV7vIAIFXThtoidabiiA=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Layouts_qquicklayoutsplugin_armea
+ bi-v7a.so
+SHA-256-Digest: 4CVFT8vtfHWxxS6320/CWZnN+jpNsgivtm4G1iHVCHk=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Particles.2_particlesplugin_armea
+ bi-v7a.so
+SHA-256-Digest: r7oSX8ZAYNhaogGerURhSUa88+w7whlKc9Qqlm45lZ8=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_PrivateWidgets_widgetsplugin_arme
+ abi-v7a.so
+SHA-256-Digest: jrXnCmcaVs6UT+e1+gfoqKkwuIGLsqC/wOIgSL2Q1xc=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Templates.2_qtquicktemplates2plug
+ in_armeabi-v7a.so
+SHA-256-Digest: 7+0pyJdl0RtP/T8sn4Zd0V0teLZe7ZQ4sMUpTd5HT+Y=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Window.2_windowplugin_armeabi-v7a
+ .so
+SHA-256-Digest: J+Tk93OOt6V+32kKcrUctyih8CsfFi1yoQ8t8MR7KlU=
+
+Name: lib/armeabi-v7a/libqml_Qt_labs_calendar_qtlabscalendarplugin_arm
+ eabi-v7a.so
+SHA-256-Digest: lWmTW0LoynCPmAKdEBtE6Q+zr607xnnLW0RUoEVRlZ0=
+
+Name: lib/armeabi-v7a/libqml_Qt_labs_folderlistmodel_qmlfolderlistmode
+ lplugin_armeabi-v7a.so
+SHA-256-Digest: 2fBm8HcyyPZgvHe1NMNUz+dJND7KphhZqeRa9OCEqZo=
+
+Name: lib/armeabi-v7a/libqml_Qt_labs_platform_qtlabsplatformplugin_arm
+ eabi-v7a.so
+SHA-256-Digest: t41/tOKlfx5inJ8e2Ctbp4uZ5U2DXmT5pwbajf2dJ1Q=
+
+Name: lib/armeabi-v7a/libqml_Qt_labs_settings_qmlsettingsplugin_armeab
+ i-v7a.so
+SHA-256-Digest: x0vElPJQBs+Wm0LW36N4kspGmfgd9iflH9Mo7TKvzys=
+
+Name: lib/armeabi-v7a/libssl_1_1.so
+SHA-256-Digest: qRy+N98u7aZWj9CYDfbMoCjB2RqpEPmdBE/O/rMc9yE=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA-256-Digest: HYcv5LicUJDglDUdrwNZmwFNhnZsTpOcdwsTh2tuLdg=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA-256-Digest: HYcv5LicUJDglDUdrwNZmwFNhnZsTpOcdwsTh2tuLdg=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA-256-Digest: HYcv5LicUJDglDUdrwNZmwFNhnZsTpOcdwsTh2tuLdg=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA-256-Digest: HYcv5LicUJDglDUdrwNZmwFNhnZsTpOcdwsTh2tuLdg=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA-256-Digest: HYcv5LicUJDglDUdrwNZmwFNhnZsTpOcdwsTh2tuLdg=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA-256-Digest: HYcv5LicUJDglDUdrwNZmwFNhnZsTpOcdwsTh2tuLdg=
+
+Name: res/layout/splash.xml
+SHA-256-Digest: irYZqaGBZPg5aGXFBotQYrMtFs3Gx/XGPPtzGKe6xkI=
+
+Name: res/xml/device_filter.xml
+SHA-256-Digest: eeaqI0wGUd5MuuVQp8NaaGbgkjeuldKot65V0d3P4kU=
+
+Name: res/xml/filepaths.xml
+SHA-256-Digest: CNeu4gppfhyqXuiwN8BudnyumBKPi4Z4mzM7TOSvLcw=
+
+Name: resources.arsc
+SHA-256-Digest: tr5rd8tkrWt7Qpb1U8aYkiUXuAQJo3sCsrnVXCpKbxk=
+
